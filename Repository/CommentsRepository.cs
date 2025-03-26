@@ -38,7 +38,7 @@ namespace VulnerableCoreApp.Repository
             
             return comment;
         }
-
+//TRH-Test
         public void Delete(String ID)
         {
             Comments.Remove(Comments.Where(comment => comment.ID == ID).First());
