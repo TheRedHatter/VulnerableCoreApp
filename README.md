@@ -21,3 +21,4 @@ Browse to http://localhost:5000
 ![Reflected XSS](images/ReflectedXSS.png "Title")
 
 Pull requests and advices are always welcome.
+Random update: 2729
